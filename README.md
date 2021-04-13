@@ -1,34 +1,47 @@
+![MIT](https://img.shields.io/badge/license-MIT-green)
+
 # E-Commerce Back End
 
 ## Description
 
-The motivation behind this project was to build the back end of a e-commerce database that used RESTful routing so that the user can Create, Read, Update and Destroy information. During this project i immersed myself in Express and Sequelize to route paths to and from the database.
+The motivation behind this project was to build the back end of a e-commerce database that used RESTful routing so that the user can Create, Read, Update and Destroy information. During this project i immersed myself in Express and Sequelize routing paths to and from the database.
 
 ## Usage
 
-Once you have a database set up in MySQL Workbench and you seed the files using npm run seed all you have to do is type npm start and you're ready to start putting in urls! You can check out the video
+Once you have a database set up in MySQL Workbench and you seed the files using "npm run seed" all you have to do is type "npm start" and you're ready to start putting in urls! You can check out the video [HERE](https://drive.google.com/file/d/11xwCsIel1wPynDtSFxBMMMk48XV7ARvZ/view?usp=sharing)
 
 ## Credits
 
-List your collaborators, if any, with links to their GitHub profiles.
-If you used any third-party assets that require attribution, list the creators with links to their primary web presence in this section.
-If you followed tutorials, include links to those here as well.
+[NodeJS](https://nodejs.org/en/)<br>
+[Sequelize](https://sequelize.org/)<br>
+[MySQL](https://www.mysql.com/)<br>
+[dotevn](https://www.npmjs.com/package/dotenv)<br>
+[Express](https://expressjs.com/)<br>
 
 ## License
 
-## The last section of a high-quality README file is the license. This lets other developers know what they can and cannot do with your project. If you need help choosing a license, refer to [https://choosealicense.com/](https://choosealicense.com/).
+MIT License
 
-🏆 The previous sections are the bare minimum, and your project will ultimately determine the content of this document. You might also want to consider adding the following sections.
+Copyright (c) [2021] [Peter MoDavis]
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
 
 ## Badges
 
-![badmath](https://img.shields.io/github/languages/top/nielsenjared/badmath)
-Badges aren't necessary, per se, but they demonstrate street cred. Badges let other developers know that you know what you're doing. Check out the badges hosted by [shields.io](https://shields.io/). You may not understand what they all represent now, but you will in time.
-
-## Features
-
-If your project has a lot of features, list them here.
-
-## How to Contribute
-
-If you created an application or package and would like other developers to contribute it, you can include guidelines for how to do so. The [Contributor Covenant](https://www.contributor-covenant.org/) is an industry standard, but you can always write your own if you'd prefer.
+![JAVASCRIPT](https://img.shields.io/badge/JavaScript-100%25-brightgreen)
